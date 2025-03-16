@@ -71,6 +71,97 @@
   </tr>
 </table>
 
+## Bosses in Mega Man Series
+
+<table align="center">
+  <tr>
+    <th>Game</th>
+    <th>Boss Name</th>
+    <th>Weapon</th>
+  </tr>
+  <tr>
+    <td>Mega Man</td>
+    <td>Cut Man</td>
+    <td>Rolling Cutter</td>
+  </tr>
+  <tr>
+    <td>Mega Man</td>
+    <td>Guts Man</td>
+    <td>Super Arm</td>
+  </tr>
+  <tr>
+    <td>Mega Man</td>
+    <td>Ice Man</td>
+    <td>Ice Slasher</td>
+  </tr>
+  <tr>
+    <td>Mega Man</td>
+    <td>Fire Man</td>
+    <td>Fire Storm</td>
+  </tr>
+  <tr>
+    <td>Mega Man</td>
+    <td>Elec Man</td>
+    <td>Thunder Beam</td>
+  </tr>
+  <tr>
+    <td>Mega Man 2</td>
+    <td>Metal Man</td>
+    <td>Metal Blade</td>
+  </tr>
+  <tr>
+    <td>Mega Man 2</td>
+    <td>Air Man</td>
+    <td>Air Shooter</td>
+  </tr>
+  <tr>
+    <td>Mega Man 2</td>
+    <td>Crash Man</td>
+    <td>Crash Bomber</td>
+  </tr>
+  <tr>
+    <td>Mega Man 2</td>
+    <td>Bubble Man</td>
+    <td>Bubble Lead</td>
+  </tr>
+  <tr>
+    <td>Mega Man 2</td>
+    <td>Flash Man</td>
+    <td>Time Stopper</td>
+  </tr>
+  <tr>
+    <td>Mega Man 3</td>
+    <td>Shadow Man</td>
+    <td>Shadow Blade</td>
+  </tr>
+  <tr>
+    <td>Mega Man 3</td>
+    <td>Snake Man</td>
+    <td>Search Snake</td>
+  </tr>
+  <tr>
+    <td>Mega Man 4</td>
+    <td>Pharaoh Man</td>
+    <td>Pharaoh Shot</td>
+  </tr>
+  <tr>
+    <td>Mega Man 4</td>
+    <td>Toad Man</td>
+    <td>Rain Flush</td>
+  </tr>
+  <tr>
+    <td>Mega Man 5</td>
+    <td>Napalm Man</td>
+    <td>Napalm Bomb</td>
+  </tr>
+  <tr>
+    <td>Mega Man 5</td>
+    <td>Crystal Man</td>
+    <td>Crystal Eye</td>
+  </tr>
+</table>
+
+
 ## Techniques Used
 
 <p align="center">
